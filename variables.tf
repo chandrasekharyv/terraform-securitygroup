@@ -8,7 +8,7 @@ variable "project_name" {
   
 }
 variable "sg_description" {
-  default = {}
+  
 }
 variable "sg_ingress_rules" {
   default = {}
